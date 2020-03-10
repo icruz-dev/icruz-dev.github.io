@@ -1,7 +1,7 @@
 {
-    "name": "LibCal App",
-    "short_name": "LibCal",
-    "description": "Progressing Web Application for LibCal that can be installed in any device.",
+    "name": "Progressive Web App",
+    "short_name": "PWA",
+    "description": "Progressing Web Application.",
     "icons": [
         {
             "src": "icons/icon-lc-40.png",

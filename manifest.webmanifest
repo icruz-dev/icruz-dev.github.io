@@ -1,0 +1,16 @@
+{
+    "name": "LibCal App",
+    "short_name": "LibCal",
+    "description": "Progressing Web Application for LibCal that can be installed in any device.",
+    "icons": [
+        {
+            "src": "icons/icon-lc-40.png",
+            "sizes": "40x40",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "theme_color": "#18A0E8",
+    "background_color": "#18A0E8"
+}

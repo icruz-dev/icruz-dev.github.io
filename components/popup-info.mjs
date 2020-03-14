@@ -23,7 +23,7 @@ export default class PopUpInfo extends HTMLElement {
 
         wrapper.appendChild(icon);
         wrapper.appendChild(info);
-        
+
         shadow.appendChild(wrapper);
     }
 }

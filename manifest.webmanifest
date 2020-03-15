@@ -1,7 +1,7 @@
 {
-    "name": "Progressive Web App",
-    "short_name": "PWA",
-    "description": "Progressing Web Application.",
+    "name": "LibCal",
+    "short_name": "LibCal",
+    "description": "LibCal Progressing Web Application using Web Components.",
     "icons": [
         {
             "src": "icons/icon-lc-40.png",
@@ -10,7 +10,8 @@
         }
     ],
     "start_url": "index.html",
-    "display": "fullscreen",
-    "theme_color": "#18A0E8",
-    "background_color": "#18A0E8"
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "theme_color": "#4caf50",
+    "background_color": "#4caf50"
 }

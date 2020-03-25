@@ -24,7 +24,7 @@ export default class EventCard extends HTMLElement
         const calendarEl = content.querySelector('.event-calendar-name');
         const locationEl = content.querySelector('.event-location-name');
         const campusEl = content.querySelector('.event-campus-name');
-        const linkEl = content.querySelector('a.event-link');
+        const linkEl = content.querySelector('.event-link');
 
         const date = (startDate === endDate) ? startDate : `${startDate} - ${endDate}`;
 

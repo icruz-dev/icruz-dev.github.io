@@ -1,5 +1,4 @@
-export default class EventCard extends HTMLElement
-{
+export default class EventCard extends HTMLElement {
     constructor() {
         super();
     }

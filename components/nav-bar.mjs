@@ -1,5 +1,4 @@
-export default class NavBar extends HTMLElement 
-{
+export default class NavBar extends HTMLElement {
     constructor() {
         super();
     }
@@ -7,7 +6,7 @@ export default class NavBar extends HTMLElement
     connectedCallback() {
         const template = document.getElementById('template-nav-bar');
         const content = template.content.cloneNode(true);
-        
+
         this.appendChild(content);
     }
 }

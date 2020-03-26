@@ -1,5 +1,4 @@
-export default class EventApp extends HTMLElement
-{
+export default class EventApp extends HTMLElement {
     constructor() {
         super();
 
